@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(52, 88, 100); /* Altere a cor conforme desejado */
+    font-family: Arial, sans-serif; /* Define a fonte como Arial */
+    font-size: 18px; /* Define o tamanho da fonte */
+}
+
+h1 {
+    font-family: Verdana, sans-serif; /* Define a fonte como Verdana */
+    color: blue; /* Define a cor do texto como azul */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Sombra do texto */
+}
+#bloco {
+    margin-left: 30px; /* Margem esquerda de 30px */
+    background-color: #d3d3d3; /* Cor de fundo cinza */
+    padding: 10px; /* Adiciona um pouco de espaçamento interno, se desejar */
+}
+section {
+    text-align: center; /* Centraliza o texto dentro da seção */
+    border: 2px solid red; /* Borda vermelha de 2 pixels */
+    padding: 10px; /* Espaçamento interno opcional */
+    margin-top: 10px; /* Espaçamento acima da seção opcional */
+}
